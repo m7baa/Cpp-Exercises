@@ -2,6 +2,7 @@
 #include<string>
 
 using namespace std;
+
 // Declare an array. Define the variable type, the name of the array
 // followed by square brackets and  the number of elements it should store:
 int num[5] = {};
