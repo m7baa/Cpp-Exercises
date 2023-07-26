@@ -20,6 +20,8 @@
 	cout << myString << "\n";
 	cout << myDouble << ", " << myFloat << "\n";
 	cout << myChar << ", " << myChar2 << "\n";
+		
+	const int myNum = 15; // Constant,  unchangeable and read-only)
 	
 	if (myBool){
 		cout << "6 > 10 is True!\n";
